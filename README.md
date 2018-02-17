@@ -3,6 +3,6 @@ El juego consiste simplemente en adivinar cada letra que está en los espacios d
 
 Habrán premios los cuales podrás utilizar cuando sea necesario, en caso tal de que ya casi completes el muñeco podrás usarlo solo una vez para que se borre una parte y tener oportunidad de ganar el nivel.
 
-#Mockups
+# Mockups
 https://marvelapp.com/bge8j5e/screen/38234409
 
